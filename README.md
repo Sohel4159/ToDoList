@@ -23,7 +23,7 @@ open command line and install depedencies by command
 
 ## Dependencies to install
 
-1.body-parset
+1.body-parser
 2.ejs
 3.express
 4.lodash
@@ -32,6 +32,10 @@ open command line and install depedencies by command
 ## Run the Application
 
 -make sure mongodb is connected to our app
+
+Please install all dependencies to create a node modules folder
+type "npm install express,body-parser,ejs,lodash,mongoose
+
  
 1.Run " node app.js "
 2.App will open at "http://localhost:3000"
